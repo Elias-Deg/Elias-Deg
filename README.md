@@ -16,10 +16,14 @@
 *"Turning coffee into code and ideas into interactive experiences."*
 
 ---
+## 🐍 My Contribution Snake
 
+![Contribution Snake Game](https://github.com/Elias-Deg/Elias-Deg/blob/output/github-contribution-grid-snake.svg)
+
+---
 ## ⚡️ Quick Glance
 
-```javascript
+\`\`\`javascript
 const elias = {
   pronouns: "he" | "him",
   currentFocus: "Frontend Development at SMS Technologies",
@@ -28,7 +32,7 @@ const elias = {
   currentlyPlayingWith: [React, Next.js, Flutter, Node.js],
   funFact: "I also create SMS content about health, motivation & beauty! ✨"
 };
-```
+\`\`\`
 
 ---
 
@@ -66,6 +70,8 @@ const elias = {
 
 ---
 
+
+
 ## 📈 GitHub Dashboard
 
 <div align="center">
@@ -74,7 +80,7 @@ const elias = {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-Deg&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Elias-Deg&theme=radical&hide_border=true&background=0D1117&fire=DD2727&ring=8A2BE2)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Elias-Deg&theme=radical&hide_border=true&background=0D1117&fire=DD2727&ring=8A2BE2)
 
 </div>
 
