@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/✨_Visit_My_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://eliasdegafe.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/📧_Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-degarege-508207217/)
-[![Email](https://img.shields.io/badge/📬_eliasdeg7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliasdeg7@gmail.com)
+[![Email](https://img.shields.io/badge/📬_eliasdeg1641@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliasdeg7@gmail.com)
 
 ---
 
@@ -92,12 +92,6 @@ const elias = {
 *   ✍️ **Creating:** Value-added SMS content at **VasMas**.
 *   🌱 **Learning:** More about advanced **UI/UX patterns** and **AI integration**.
 *   🤝 **Open to:** Discussing new projects, ideas, or opportunities!
-
----
-
-## 🐍 Contribution Snake Game
-
-![GitHub Contribution Snake Game](https://raw.githubusercontent.com/Elias-Deg/Elias-Deg/output/github-contribution-grid-snake.svg)
 
 ---
 
