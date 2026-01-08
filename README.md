@@ -8,31 +8,13 @@
 
 [![Portfolio](https://img.shields.io/badge/✨_Visit_My_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://eliasdegafe.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/📧_Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-degarege-508207217/)
-[![Email](https://img.shields.io/badge/📬_eliasdeg1641@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliasdeg7@gmail.com)
+[![Email](https://img.shields.io/badge/📬_eliasdeg1641@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliasdeg1641@gmail.com)
 
 ---
 
 ### 🧩 **Coding is my superpower, and UI/UX is my art.**  
 *"Turning coffee into code and ideas into interactive experiences."*
 
----
-## 🐍 My Contribution Snake
-
-![Contribution Snake Game](https://github.com/Elias-Deg/Elias-Deg/blob/output/github-contribution-grid-snake.svg)
-
----
-## ⚡️ Quick Glance
-
-\`\`\`javascript
-const elias = {
-  pronouns: "he" | "him",
-  currentFocus: "Frontend Development at SMS Technologies",
-  sideHustle: "Content Creator at VasMas since 2021",
-  passion: ["Clean UIs", "Solving Real Problems", "Flutter Mobile Apps"],
-  currentlyPlayingWith: [React, Next.js, Flutter, Node.js],
-  funFact: "I also create SMS content about health, motivation & beauty! ✨"
-};
-\`\`\`
 
 ---
 
@@ -56,33 +38,15 @@ const elias = {
 
 ---
 
-## 🚀 Featured Projects from My Galaxy
 
-| Project | Description | Tech Stack | Live Demo |
-|:--------|:------------|:-----------|:----------|
-| **🎮 Ethio-Sports** | Premier League management with live scores & stats. | `Next.js` `Express` `MongoDB` | *Coming Soon* |
-| **🤖 AI Chatbot for Students** | Intelligent chatbot for academic queries. | `React` `Node.js` `AI/ML` `Firebase` | *Coming Soon* |
-| **📦 Kelai Stock** | Inventory mobile app for retail stores. | `Flutter` `Firebase` `Dart` | *Coming Soon* |
-| **💬 Echo Survey App** | Mobile app for customer satisfaction feedback. | `Flutter` `Firebase` `UI/UX` | *Coming Soon* |
-| **🏥 MedLink** | Healthcare management web application. | `React` `Node.js` `GraphQL` `MongoDB` | *Coming Soon* |
-
-> 💡 *Check out my **[portfolio](https://eliasdegafe.vercel.app/)** for more details and demos!*
-
----
 
 
 
 ## 📈 GitHub Dashboard
 
-<div align="center">
-  
-![Elias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elias-Deg&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true)
+<div align="center"> <img src="https://img.shields.io/github/followers/Elias-Deg?label=Followers&style=for-the-badge" /> <img src="https://img.shields.io/github/stars/Elias-Deg?label=Total%20Stars&style=for-the-badge" /> <img src="https://img.shields.io/github/repos/Elias-Deg?label=Public%20Repos&style=for-the-badge" /> <img src="https://img.shields.io/github/last-commit/Elias-Deg/Elias-Deg?label=Last%20Commit&style=for-the-badge" /> </div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-Deg&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Elias-Deg&theme=radical&hide_border=true&background=0D1117&fire=DD2727&ring=8A2BE2)
-
-</div>
 
 ---
 
