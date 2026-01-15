@@ -2,7 +2,7 @@
 
 # 👋 Hello World, I'm Elias!
 
-### **Frontend Developer** & **Content Creator** who loves building smart, efficient, and user-focused applications.
+### **Fullstack Developer** & **Content Creator** who loves building smart, efficient, and user-focused applications.
   
 `📍` Addis Ababa, Ethiopia | `🎓` CS Grad from Hilcoe | `💼` Frontend Dev @ SMS Technologies
 
