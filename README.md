@@ -11,8 +11,11 @@
 [![Email](https://img.shields.io/badge/📬_eliasdeg1641@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliasdeg1641@gmail.com)
 
 ---
-<img src="   https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnM5dW9qb2d4cnU5Nzg2YWpjZzdqNzZpOXQ5emZkenF3Zng0MHE5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif
-" width="320" />
+<div align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnM5dW9qb2d4cnU5Nzg2YWpjZzdqNzZpOXQ5emZkenF3Zng0MHE5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="320">
+
+</div>
+
 ---
 ### 🧩 **Coding is my superpower, and UI/UX is my art.**  
 *"Turning coffee into code and ideas into interactive experiences."*
