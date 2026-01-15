@@ -7,7 +7,7 @@
 `📍` Addis Ababa, Ethiopia | `🎓` CS Grad from Hilcoe | `💼` Frontend Dev @ SMS Technologies
 
 [![Portfolio](https://img.shields.io/badge/✨_Visit_My_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://eliasdegafe.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/📧_Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-degarege-508207217/)
+[![LinkedIn](https://img.shields.io/badge/📧_Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-degafe/)
 [![Email](https://img.shields.io/badge/📬_eliasdeg1641@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliasdeg1641@gmail.com)
 
 ---
@@ -25,6 +25,10 @@
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+
 
 ### **🎨 Design & Build**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -35,18 +39,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-
-
-
-
-## 📈 GitHub Dashboard
-
-<div align="center"> <img src="https://img.shields.io/github/followers/Elias-Deg?label=Followers&style=for-the-badge" /> <img src="https://img.shields.io/github/stars/Elias-Deg?label=Total%20Stars&style=for-the-badge" /> <img src="https://img.shields.io/github/repos/Elias-Deg?label=Public%20Repos&style=for-the-badge" /> <img src="https://img.shields.io/github/last-commit/Elias-Deg/Elias-Deg?label=Last%20Commit&style=for-the-badge" /> </div>
-
-
 
 ---
 
