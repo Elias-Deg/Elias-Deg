@@ -47,6 +47,14 @@
 
 ---
 
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elias-Deg&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+---
+
+---
+
 ## 🎯 Currently...
 
 *   🔨 **Building:** Modern web & mobile apps at **SMS Technologies**.
