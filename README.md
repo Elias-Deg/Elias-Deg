@@ -17,8 +17,7 @@
 </div>
 
 ---
-### 🧩 **Coding is my superpower, and UI/UX is my art.**  
-*"Turning coffee into code and ideas into interactive experiences."*
+### ☕ **Turning coffee into code and ideas into interactive experiences.**  
 
 
 ---
