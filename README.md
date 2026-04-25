@@ -42,7 +42,8 @@
 ### **⚙️ Backend & More**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-47A248?style=for-the-badge&logo=supabase&logoColor=white)
+
 
 ---
 
@@ -50,8 +51,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elias-Deg&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
----
 
+
+---
+<!-- Contribution Graph -->
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gedeonagmas&theme=radical&hide_border=true&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFFFFF&area=true&area_color=FF6B35&title_color=FF6B35&custom_title=Elias+Degafe+GitHub+Activity)](https://github.com/elias-deg/github-readme-activity-graph)
 ---
 
 ## 🎯 Currently...
